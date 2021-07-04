@@ -22,7 +22,7 @@
 ## 참고 자료
 
 - [스프링역사](https://www.quickprogrammingtips.com/spring-boot/history-of-spring-framework-and-spring-boot.html)
-- [객체지향프로그래밍](https://ko.wikipedia.org/wiki/ %EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+- [객체지향프로그래밍](https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
 - [JPA 핵심정리](https://github.com/KimByeongHwan/JPA-Programming)
 
