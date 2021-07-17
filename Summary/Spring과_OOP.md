@@ -63,7 +63,7 @@ ___
 - 메트릭, 상태 확인, 외부 구성 같은 프로덕션 준비 기능 제공
 - 관례에 의한 간결한 설정
 
-![스프링생태계](C:\workspace\Spring\img\스프링생태계.png)
+![스프링생태계](/Img/스프링생태계.png)
 
 **일반적인 Java 프로젝트에서 Spring Framework와 Spring Boot 는 필수임.**
 
