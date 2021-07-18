@@ -3,6 +3,15 @@ Java Back-End 실무에서 필수적으로 쓰이는 Spring의 원리를 이해�
 
 
 
+## 개발환경
+
+- Java 11
+- Spring Boot 2.4.8
+- Packaging: Jar
+- Gardle
+
+
+
 ## 정리 및 공부
 
 - [스프링과 OOP](/Summary/Spring과_OOP.md)
